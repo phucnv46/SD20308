@@ -1,4 +1,4 @@
-namespace WinFormsApp
+namespace SD20308
 {
     internal static class Program
     {
